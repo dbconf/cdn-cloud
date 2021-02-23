@@ -16,8 +16,8 @@
     padding: 5px 10px;
     border: 1px solid rgba(224, 186, 140, 0.62);
     border-radius: 12px;
-    background-color: rgba(236, 217, 188, 0.5);
-    box-shadow: 0 3px 15px 2px rgba(191, 158, 118, 0.2);
+    background-color: rgba(236, 317, 258, 0.5);
+    box-shadow: 0 3px 15px 2px rgba(236, 317, 258, 0.5);
     text-overflow: ellipsis;
     overflow: hidden;
     position: absolute;
@@ -29,7 +29,7 @@
 }
 .waifu-tool {
     display: none;
-    color: #aaa;
+    color: #212121;
     top: 50px;
     right: 10px;
     position: absolute;
