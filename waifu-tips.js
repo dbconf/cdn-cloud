@@ -21,7 +21,7 @@ window.live2d_settings = Array(); /*
 
 // 后端接口
 live2d_settings['modelAPI']             = '//live2d.fghrsh.net/api/';   // 自建 API 修改这里
-live2d_settings['tipsMessage']          = 'waifu-tips.json';            // 同目录下可省略路径
+live2d_settings['tipsMessage']          = 'https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud/waifu-tips.json';            // 同目录下可省略路径
 live2d_settings['hitokotoAPI']          = 'jinrishici.com';                  // 一言 API，可选 'lwl12.com', 'hitokoto.cn', 'jinrishici.com'(古诗词)
 
 // 默认模型
@@ -64,7 +64,7 @@ live2d_settings['waifuDraggable']       = 'unlimited';    // 拖拽样式，例�
 live2d_settings['waifuDraggableRevert'] = false;         // 松开鼠标还原拖拽位置，可选 true(真), false(假)
 
 // 其他杂项设置
-live2d_settings['l2dVersion']           = '1.0.4';        // 当前版本
+live2d_settings['l2dVersion']           = '1.0.5';        // 当前版本
 live2d_settings['l2dVerDate']           = '2021.1.12'; // 版本更新日期
 live2d_settings['homePageUrl']          = 'auto';       // 主页地址，可选 'auto'(自动), '{URL 网址}'
 live2d_settings['aboutPageUrl']         = 'https://dabai.in/';   // 关于页地址, '{URL 网址}'
