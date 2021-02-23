@@ -30,9 +30,9 @@
 .waifu-tool {
     display: none;
     color: #000000;
-    top: 50px;
-    right: 10px;
-    position: absolute;
+    top: 0px;
+    right: -120px;
+    position: relative;
 }
 .waifu:hover .waifu-tool {
     display: block;
