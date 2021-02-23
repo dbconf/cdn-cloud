@@ -7,7 +7,7 @@ try {
             /* 可直接修改部分参数 */
             
             live2d_settings['modelId'] = 6;                  // 默认模型 ID
-            live2d_settings['modelTexturesId'] = 1;          // 默认材质 ID
+            live2d_settings['modelTexturesId'] = 2;          // 默认材质 ID
             live2d_settings['modelStorage'] = false;         // 不储存模型 I
             
              /*  在 initModel 前添加 */
