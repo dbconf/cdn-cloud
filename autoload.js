@@ -8,8 +8,8 @@ try {
             live2d_settings['hitokotoAPI'] = "hitokoto.cn";  // 一言 API
             live2d_settings['modelId'] = 5;                  // 默认模型 ID
             live2d_settings['modelTexturesId'] = 1;          // 默认材质 ID
-            live2d_settings['modelStorage'] = false;         // 不储存模型 ID
-            live2d_settings['waifuDraggable'] = 'axis-x';    // 拖拽样式
+            live2d_settings['modelStorage'] = false;         // 不储存模型 I
+            
              /*  在 initModel 前添加 */
             initModel("https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud@1.0.4/waifu-tips.json");
         }});
