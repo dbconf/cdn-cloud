@@ -30,10 +30,10 @@
 .waifu-tool {
     display: none;
     height: 200px;
-    width: 50px;
-    color: #000000;
+    width: 20px;
+    color: #aaa;
     top: 100px;
-    right: -50px;
+    right: -20px;
     position: relative;
 }
 .waifu:hover .waifu-tool {
