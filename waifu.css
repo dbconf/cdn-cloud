@@ -29,9 +29,11 @@
 }
 .waifu-tool {
     display: none;
+    height: 200px;
+    width: 50px;
     color: #000000;
-    top: 0px;
-    right: -120px;
+    top: 100px;
+    right: -50px;
     position: relative;
 }
 .waifu:hover .waifu-tool {
