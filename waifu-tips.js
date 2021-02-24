@@ -45,7 +45,7 @@ live2d_settings['modelTexturesRandMode']= 'rand';       // 材质切换，可选
 
 // 提示消息选项
 live2d_settings['showHitokoto']         = true;         // 显示一言
-live2d_settings['showF12Status']        = false;         // 显示加载状态
+live2d_settings['showF12Status']        = true;         // 显示加载状态
 live2d_settings['showF12Message']       = true;        // 显示看板娘消息
 live2d_settings['showF12OpenMsg']       = true;         // 显示控制台打开提示
 live2d_settings['showCopyMessage']      = true;         // 显示 复制内容 提示
@@ -53,8 +53,8 @@ live2d_settings['showWelcomeMessage']   = true;         // 显示进入面页欢
 
 //看板娘样式设置
 live2d_settings['waifuSize']            = '300x300';    // 看板娘大小，例如 '280x250', '600x535'
-live2d_settings['waifuTipsSize']        = '250x60';     // 提示框大小，例如 '250x70', '570x150'
-live2d_settings['waifuFontSize']        = '14px';       // 提示框字体，例如 '12px', '30px'
+live2d_settings['waifuTipsSize']        = '280x70';     // 提示框大小，例如 '250x70', '570x150'
+live2d_settings['waifuFontSize']        = '13px';       // 提示框字体，例如 '12px', '30px'
 live2d_settings['waifuToolFont']        = '16px';       // 工具栏字体，例如 '14px', '36px'
 live2d_settings['waifuToolLine']        = '25px';       // 工具栏行高，例如 '20px', '36px'
 live2d_settings['waifuToolTop']         = '-10px'         // 工具栏顶部边距，例如 '0px', '-60px'
@@ -64,7 +64,7 @@ live2d_settings['waifuDraggable']       = 'unlimited';    // 拖拽样式，例�
 live2d_settings['waifuDraggableRevert'] = false;         // 松开鼠标还原拖拽位置，可选 true(真), false(假)
 
 // 其他杂项设置
-live2d_settings['l2dVersion']           = '1.0.7';        // 当前版本
+live2d_settings['l2dVersion']           = '1.0.8';        // 当前版本
 live2d_settings['l2dVerDate']           = '2021.1.12'; // 版本更新日期
 live2d_settings['homePageUrl']          = 'auto';       // 主页地址，可选 'auto'(自动), '{URL 网址}'
 live2d_settings['aboutPageUrl']         = 'https://dabai.in/';   // 关于页地址, '{URL 网址}'
