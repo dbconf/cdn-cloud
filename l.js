@@ -93,7 +93,7 @@
             try {
                 var t = this.__(),
                 i = document.createElement("link");
-                i.href = ["https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud@1.1.9/client_default.css?" + this.ca].join(""),
+                i.href = [this._e+"/",this.m_+"/","client_"+t+".css?"+this.ca].join(""),
                 i.type = "text/css",
                 i.rel = "stylesheet",
                 this.f_(i),
