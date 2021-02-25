@@ -82,7 +82,7 @@
         i.prototype.d_ = function() {
             try {
                 var t = document.createElement("script");
-                t.src = ["https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud@1.1.8/client.js?" + this.ca].join(""),
+                t.src = ["https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud@1.1.9/client.js?" + this.ca].join(""),
                 t.type = "text/javascript",
                 t.async = 1,
                 this.f_(t),
@@ -93,7 +93,7 @@
             try {
                 var t = this.__(),
                 i = document.createElement("link");
-                i.href = ["https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud@1.1.8/client_default.css?" + this.ca].join(""),
+                i.href = ["https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud@1.1.9/client_default.css?" + this.ca].join(""),
                 i.type = "text/css",
                 i.rel = "stylesheet",
                 this.f_(i),
