@@ -1,2 +1,1 @@
-# jsDelivr 免费CDN加载文件
-CDN cloud
+CDN资源加载
